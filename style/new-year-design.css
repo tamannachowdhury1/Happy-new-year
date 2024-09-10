@@ -1,6 +1,7 @@
 body {
     font-family: "Merriweather", serif;
     font-weight: 400;
+    margin: 0%;
 }
 
 /* header section */
@@ -82,8 +83,9 @@ new year offer */
     background-position: right;
     width: 1320px;
     height: 600px;
-    margin: 8% 9%;
+    /* margin: 8% 9%; */
     display: flex;
+    margin: auto;
 }
 
 .year-2024 {
@@ -123,4 +125,40 @@ new year offer */
 .welcome-content {
     margin: 0% 10%;
     padding-top: 8%;
+}
+
+/* info contemt */
+.info-content {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    background-image: linear-gradient(to bottom, rgba(223, 198, 211, 0.89), rgba(245, 233, 233, 0.103));
+    border-radius: 13px;
+    margin: auto;
+    width: 1320px;
+    height: 482px;
+    margin-top: 7%;
+
+}
+
+.red {
+    color: #FF0000;
+
+}
+
+.join-now-btn {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    padding: 15px 26px;
+    font-weight: bold;
+    font-family: "Inter", sans-serif;
+    border: none;
+    border-radius: 7px;
+    font-size: 15px;
+    margin-top: 2%;
+}
+
+.plac-content {
+    padding-top: 7%;
 }
