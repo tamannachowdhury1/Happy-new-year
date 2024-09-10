@@ -25,12 +25,102 @@ body {
 
 .banner-heading {
     font-size: 70px;
-    /* font-weight: 10px; */
+
     margin-top: -1%;
+
 
 }
 
 .banner-text {
     /* margin-top: 5%; */
     font-size: 30px;
+}
+
+/* 
+new year offer */
+
+
+.offer-content {
+    /* border: solid black; */
+    text-align: center;
+    margin: 6%;
+}
+
+.new-year-offer {
+    width: 802px;
+    height: 500px;
+}
+
+.offer-h1-title {
+    font-family: "Inter", sans-serif;
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bold;
+}
+
+.offer-p-title {
+    font-family: "Inter", sans-serif;
+    color: #FF0000;
+    font-size: 20px;
+    font-weight: medium;
+    margin-top: -3%;
+}
+
+.new-offer-catagories {
+    font-family: "Inter", sans-serif;
+    color: black;
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: -1%;
+}
+
+/* wlcome party */
+.bg-img {
+    background-image: linear-gradient(to right, rgba(7, 0, 16, 0.89), rgba(116, 114, 114, 0.103)), url('../images/Vectorrr.png');
+
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 1320px;
+    height: 600px;
+    margin: 8% 9%;
+    display: flex;
+}
+
+.year-2024 {
+    width: 319px;
+    height: 464px;
+    margin-top: 5%;
+    margin-left: 4%;
+    image-: linear-gradient(black);
+
+
+}
+
+.welcome-banner-heading {
+    font-size: 60px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.welcome-p {
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    color: #efe0e0;
+    margin-top: -3%;
+}
+
+.join-now {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #fcf5f5;
+    padding: 2% 0% 0% 2%;
+
+}
+
+
+.welcome-content {
+    margin: 0% 10%;
+    padding-top: 8%;
 }
