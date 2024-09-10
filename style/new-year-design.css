@@ -6,23 +6,31 @@ body {
 /* header section */
 
 .banner-img {
-    background-image: url('../images/pic.png');
+    background-image: linear-gradient(to bottom, rgba(7, 1, 17, 0.89), rgba(136, 136, 136, 0.103)), url('../images/pic.png');
     background-repeat: no-repeat;
-    width: 100%;
+    width: 1300px;
     height: 600px;
-    border: solid red;
-    background-position: center;
-    margin-top: 4%;
-    opacity: 1 black;
+    border-radius: 18px;
+    margin: 4% 9%;
+
+
+
 }
 
 .banner-title {
     color: #FFFFFF;
     text-align: center;
-    margin-top: 15%;
-
+    padding-top: 13%;
 }
 
 .banner-heading {
-    font-size: 50px;
+    font-size: 70px;
+    /* font-weight: 10px; */
+    margin-top: -1%;
+
+}
+
+.banner-text {
+    /* margin-top: 5%; */
+    font-size: 30px;
 }
