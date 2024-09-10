@@ -77,7 +77,7 @@ new year offer */
 /* wlcome party */
 .bg-img {
     background-image: linear-gradient(to right, rgba(7, 0, 16, 0.89), rgba(116, 114, 114, 0.103)), url('../images/Vectorrr.png');
-
+    border-radius: 20px;
     background-repeat: no-repeat;
     background-position: right;
     width: 1320px;
@@ -91,7 +91,7 @@ new year offer */
     height: 464px;
     margin-top: 5%;
     margin-left: 4%;
-    image-: linear-gradient(black);
+    background: linear-gradient(black);
 
 
 }
