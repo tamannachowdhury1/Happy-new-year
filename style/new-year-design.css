@@ -382,6 +382,59 @@ new year offer */
 .re-3 {
     width: 424px;
     height: 450px;
+}
+
+/* newslatter */
+.newslater-content {
+    width: 1320px;
+    height: 616px;
+
+    margin: auto;
+    background-color: rgb(250, 232, 235);
+    text-align: center;
+    margin-top: 4%;
+}
+
+.Subscribe-title {
+    padding-top: 7.5%;
+}
+
+.sub-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.sub-p {
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Inter", sans-serif;
+    ;
+    color: black;
+    margin-top: -2%;
+}
+
+.email-here {
+    font-size: 18px;
+    font-family: "Inter", sans-serif;
+    ;
+    font-weight: 400;
+    border-radius: 20px 0px 0px 20px;
+    padding: 11px 28px 15px;
+    border: #fcf5f5;
+
+    color: #070211;
 
 
+}
+
+.subscribe-btn {
+    border-radius: 0px 25px 25px 0px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    padding: 16px 30px;
+    font-size: 13px;
+    font-family: "Inter", sans-serif;
+    ;
+    font-weight: 600;
+    border: #FF0000;
 }
