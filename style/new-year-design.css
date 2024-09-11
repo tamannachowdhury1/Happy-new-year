@@ -439,3 +439,61 @@ new year offer */
     font-weight: 600;
     border: #FF0000;
 }
+
+/* footer */
+.ft-cnt {
+    width: auto;
+    height: 500px;
+    background-color: #070211;
+    margin-top: 6%;
+}
+
+.mediums {
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    ;
+    font-weight: 300;
+    color: #fcf5f5;
+}
+
+#website {
+    margin-top: -10%;
+}
+
+.calls {
+    display: flex;
+    gap: 7%;
+}
+
+.call-img {
+    width: 24px;
+    height: 24px;
+    margin-top: 10%;
+}
+
+.website-img {
+    width: 24px;
+    height: 24px;
+    margin-top: -8%;
+}
+
+.ft-text {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+}
+
+.fb-in-li {
+
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+}
+
+.last-ft-text {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+    margin-left: -3%;
+}
