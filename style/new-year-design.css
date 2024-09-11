@@ -390,7 +390,8 @@ new year offer */
     height: 616px;
 
     margin: auto;
-    background-color: rgb(250, 232, 235);
+    background-color: #f5eaea;
+    /* background-color: rgb(250, 232, 235); */
     text-align: center;
     margin-top: 4%;
 }
